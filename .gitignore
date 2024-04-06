@@ -2,6 +2,9 @@ session*
 .idea
 .vs
 
+src/TeleggaHelperBot.json
+src/TelegramNotifier.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{8a316268-a575-44c5-be86-f86aa380943a}</ProjectGuid>
     <ProjectHome />
-    <StartupFile />
+    <StartupFile>src\TeleggaHelperBot.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -19,6 +19,7 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="src\TeleggaHelperBot.py" />
     <Compile Include="src\TelegramNotifier.py" />
   </ItemGroup>
   <ItemGroup>
